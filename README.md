@@ -38,7 +38,7 @@ If you'd like to contribute to this project, feel free to submit a pull request 
 
 For any questions, feedback, or collaboration opportunities, please feel free to reach out:
 
-- Email: [Email Address](mailto:vansh.kash05@gmail.com)  📧
+- Email: [vansh.kash05@gmail.com](mailto:vansh.kash05@gmail.com)  📧
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/vansh-kashyap-b91886289)   🔗
 
 Enjoy playing the Hangman Game and test your word-guessing skills!  🎉

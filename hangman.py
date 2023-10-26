@@ -38,3 +38,4 @@ while r:
     if play_again.lower() != 'y':
         print("Game ended")
         r = False
+    
